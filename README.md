@@ -21,7 +21,7 @@
 
 - 对做的事情进行说明是什么（WHAT），为什么要做（WHY）。
 - 对相关文件进行解析、指明哪部机器操作、配图，并在易出错点添加解决办法。
-- 使用文件皆是官方文件，相关软件包有对应文件，避免被更新或其它问题导致无法下载等情况，百度云https://pan.baidu.com/s/1arE2LdtAbcR80gmIQtIELw 提取码：ouy1。
+- 使用文件皆是官方文件，相关软件包有对应文件，避免被更新或其它问题导致无法下载等情况，百度云https://pan.baidu.com/s/1TJrZJGJa3797WdUrGYF-og 提取码：6666。
 - 无数前人遍历/建设代码，为代码完整性保驾护航，欢迎给我们提供你的建议、扩展、报错。
 - 整理了多人问的4个问题<a href="https://github.com/yansongwel/k8s_PaaS/blob/master/Features.md#qa">Q&A</a>：配置只有4核8G够吗，新手可以吗，找不到报错怎么办，做完看不懂怎么办
 
